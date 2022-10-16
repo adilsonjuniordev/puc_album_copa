@@ -3,6 +3,12 @@
 Projeto desenvolvido para participar do evento Dart Week (Academia do Flutter),
 afim de realizar um imersão em Flutter, colocando em prática a arquitetura MVP e vários outros conceitos.
 
+<img src="assets/images/screenshots/splash.jpg" href="#" alt="Splash Page"/>
+<img src="assets/images/screenshots/home.jpg" href="#" alt="Home Page"/>
+<img src="assets/images/screenshots/my_stickers.jpg" href="#" alt="My Stickers Page"/>
+<img src="assets/images/screenshots/login.jpg" href="#" alt="Login Page"/>
+<img src="assets/images/screenshots/register.jpg" href="#" alt="Register Page"/>
+
 ## Packages utilizados
 
 Foram utilizados os packages abaixo para auxiliar na construção do projeto:
