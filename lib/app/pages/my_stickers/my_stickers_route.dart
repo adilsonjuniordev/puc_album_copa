@@ -1,4 +1,5 @@
-import 'package:flutter/src/widgets/framework.dart';
+
+import 'package:flutter/material.dart';
 import 'package:flutter_getit/flutter_getit.dart';
 import 'package:fwc_album_app/app/pages/my_stickers/my_stickers_page.dart';
 import 'package:fwc_album_app/app/pages/my_stickers/presenter/my_stickers_presenter.dart';
