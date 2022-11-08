@@ -4,6 +4,14 @@ Projeto desenvolvido para a disciplina de Laboratório de Projetos de Sistemas, 
 
 <br>
 
+**Integrantes**
+
+- Adilson Antonio Pereira Junior
+- Pedro Augusto Costa Senciano
+- Raony Lino de Oliveira
+
+<br>
+
 **Descrição do Sistema**
 
 O objetivo do projeto é um aplicativo mobile para gerenciamento de figurinhas do album da copa de 2022 no Qatar, com o propósito de centralizar de maneira organizada as figurinhas do usuário, para que ele possa saber:
