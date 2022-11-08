@@ -32,6 +32,47 @@ O objetivo do projeto é um aplicativo mobile para gerenciamento de figurinhas d
 
 <br>
 
+# Testando o App (depuração pela IDE)
+
+Instale o SDK do [**Flutter**](https://docs.flutter.dev/get-started/install) na versão mais recente do canal **Stable**.
+Em seguida [**configure a IDE**](https://docs.flutter.dev/get-started/editor) de preferência.
+
+1 - Abra o terminal na raiz do projeto.<br>
+2 - Execute o comando abaixo para baixar os pacotes e dependências do projeto:
+
+```sh
+> flutter pub get
+```
+
+3 - Abra o emulador **OU** conecte um dispositivo Android via USB e certifique-se de que a IDE o identificou.<br>
+4 - Execute o comando abaixo para instalar e executar o projeto:
+
+```sh
+> flutter run
+```
+___
+
+# Testando o App (Instalação APK)
+
+> Copie o arquivo **installer.apk** para o dispositivo Android e execute-o.
+> Ao concluir a instalação basta abri-lo
+___
+> Caso esteja instalando pelo ADB, execute o seguinte comando via terminal:
+```sh
+> adb install installer.apk
+```
+___
+# Credenciais de Acesso
+
+> Ao abrir o APP será solicitado **e-mail** e **senha** para se autenticar:
+
+| Email | Senha |
+| ----------------- | ------ |
+| teste@pucminas.br | 123456 |
+
+
+<br>
+
 ## Screenshots
 
 <p float="left">
