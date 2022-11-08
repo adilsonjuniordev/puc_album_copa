@@ -6,7 +6,7 @@ Projeto desenvolvido para a disciplina de Laboratório de Projetos de Sistemas, 
 
 **Descrição do Sistema**
 
-- O objetivo do projeto é um aplicativo mobile para gerenciamento de figurinhas do album da copa de 2022 no Qatar, com o propósito de centralizar de maneira organizada as figurinhas do usuário, para que ele possa saber:
+O objetivo do projeto é um aplicativo mobile para gerenciamento de figurinhas do album da copa de 2022 no Qatar, com o propósito de centralizar de maneira organizada as figurinhas do usuário, para que ele possa saber:
 
 1. Quais/quantas figurinhas do album já possui.
 2. Quais/quantas figurinhas do album estão faltando.
