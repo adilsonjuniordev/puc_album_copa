@@ -9,8 +9,18 @@ Projeto desenvolvido para a disciplina de Laboratório de Projetos de Sistemas, 
 - O objetivo do projeto é um aplicativo mobile para gerenciamento de figurinhas do album da copa de 2022 no Qatar, com o propósito de centralizar de maneira organizada as figurinhas do usuário, para que ele possa saber:
 
 1. Quais/quantas figurinhas do album já possui.
-2. Quais/quantas figurinhas do album está faltando.
+2. Quais/quantas figurinhas do album estão faltando.
 3. Quais/quantas figurinhas do album são repetidas.
+
+<br>
+
+**Estória de Usuários**
+
+1. Como Alice, quero ter agilidade na identificação das figurinhas que possuo em minha coleção.
+2. Como Márcio, quero facilidade ao gerenciar minhas figurinhas.
+3. Como Ramon, quero saber quais figurinhas estão faltando na minha coleção.
+4. Como Yumi, quero saber quais e quantas figurinhas repetidas possuo.
+5. Como Marcelo, quero saber quais são os jogadores de uma seleção.
 
 <br>
 
