@@ -4,6 +4,10 @@ Projeto desenvolvido para a disciplina de Laboratório de Projetos de Sistemas, 
 
 <br>
 
+Link para acessar o [**Slide de apresentação da primeira entrega**](https://www.canva.com/design/DAFRSj2La4E/FOUZs2iDxC1_5Nr2KAmxbQ/edit?utm_content=DAFRSj2La4E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+<br>
+
 **Integrantes:**
 
 - Adilson Antonio Pereira Junior
