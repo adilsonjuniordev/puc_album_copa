@@ -1,12 +1,12 @@
 # Album de Figurinhas da Copa 2022 - Qatar
 
-Projeto desenvolvido para a disciplina de Laboratório de Projetos de Sistemas, afim de propor a solução de um problema, colocando em prática a arquitetura MVP com Flutter e vários outros conceitos do mundo Mobile.
+Projeto desenvolvido para a disciplina de Laboratório de Projetos de Sistemas, a fim de propor a solução de um problema, colocando em prática a arquitetura MVP com Flutter e vários outros conceitos do mundo Mobile.
 
 <br>
 
 **Descrição do Sistema**
 
-- Aplicativo para gerenciamento de figurinhas do album da copa de 2022 no Qatar. O objetivo do projeto é centralizar de maneira organizada, e organizar as figurinhas do usuário, de forma que ele possa saber:
+- O objetivo do projeto é um aplicativo mobile para gerenciamento de figurinhas do album da copa de 2022 no Qatar, com o propósito de centralizar de maneira organizada as figurinhas do usuário, para que ele possa saber:
 
 1. Quais/quantas figurinhas do album já possui.
 2. Quais/quantas figurinhas do album está faltando.
