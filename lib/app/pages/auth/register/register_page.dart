@@ -46,9 +46,7 @@ class _RegisterPageState extends RegisterViewImpl {
               Container(
                 height: 106.82,
                 decoration: const BoxDecoration(
-                  image: DecorationImage(
-                      image: AssetImage('assets/images/bola.png'),
-                      fit: BoxFit.fill),
+                  image: DecorationImage(image: AssetImage('assets/images/bola.png'), fit: BoxFit.fill),
                 ),
               ),
               const SizedBox(
@@ -79,6 +77,7 @@ class _RegisterPageState extends RegisterViewImpl {
                     ),
                     TextFormField(
                       controller: emailEC,
+                      keyboardType: TextInputType.emailAddress,
                       decoration: const InputDecoration(
                         label: Text(
                           'E-mail *',
@@ -100,11 +99,7 @@ class _RegisterPageState extends RegisterViewImpl {
                           'Senha *',
                         ),
                       ),
-                      validator: Validatorless.multiple([
-                        Validatorless.required('Obrigatório'),
-                        Validatorless.min(
-                            6, 'Senha deve conter pelo menos 6 caracteres')
-                      ]),
+                      validator: Validatorless.multiple([Validatorless.required('Obrigatório'), Validatorless.min(6, 'Senha deve conter pelo menos 6 caracteres')]),
                     ),
                     const SizedBox(
                       height: 20,
@@ -119,10 +114,8 @@ class _RegisterPageState extends RegisterViewImpl {
                       ),
                       validator: Validatorless.multiple([
                         Validatorless.required('Obrigatório'),
-                        Validatorless.min(
-                            6, 'Senha deve conter pelo menos 6 caracteres'),
-                        Validatorless.compare(
-                            passwordEC, 'Senha diferente de confirma senha ')
+                        Validatorless.min(6, 'Senha deve conter pelo menos 6 caracteres'),
+                        Validatorless.compare(passwordEC, 'Senha diferente de confirma senha ')
                       ]),
                     ),
                     const SizedBox(
@@ -130,8 +123,7 @@ class _RegisterPageState extends RegisterViewImpl {
                     ),
                     Button.primary(
                       onPressed: () {
-                        final formValid =
-                            formKey.currentState?.validate() ?? false;
+                        final formValid = formKey.currentState?.validate() ?? false;
 
                         if (formValid) {
                           showLoader();
